@@ -1,4 +1,8 @@
 This is text file 1. Some Corrrections made.
 This is text file 2.
 This is to be stashed.
+<<<<<<< Updated upstream
 Adding this text.
+=======
+Text added.
+>>>>>>> Stashed changes

@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Some text added to file 2.
+=======
+this is to be empty.
+>>>>>>> Stashed changes
